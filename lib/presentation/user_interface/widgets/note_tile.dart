@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:remainder_application/database/notes_database/models/note.dart';
 import 'package:remainder_application/presentation/resources/color_manager.dart';
